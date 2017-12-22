@@ -1,0 +1,31 @@
+.gray{
+	background-color: #F8F8F8;
+}
+.cust-nav{
+	margin-bottom: 2px;
+}
+.vertical-nav{
+	border-radius: 0px 5px 5px 0px;
+	margin-left: 0px;
+	text-align: center;
+}
+.vertical-nav-div{
+	padding: 0px;
+}
+.bottom-div{
+	margin-top: 70px;
+}
+.nopadding{
+	padding: 0px;
+}
+.content{
+	padding-left: 20px;
+}
+
+.panel-heading a:hover,.panel-heading a:focus{
+	text-decoration: none;
+}
+.panel-collapse li:hover{
+	background: #337ab7;
+    color: #fff;
+}
